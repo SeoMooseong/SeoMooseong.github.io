@@ -12,7 +12,7 @@ title: 자기 주도 학습
 |프로토타입<br>(Prototype)|- 빠른 시각화를 통한 컨셉 도출과 개발<br>- 발전된 컨셉을 빠른 시간내에 시각적으로<br>이해할 수 있도록 함|-Tool :<br> Justinmind / Balsamiq / AdobeXD / Kakao Oven|
 |테스트<br>(Test)|- 컨셉 혹은 시제품으로 시장에 런칭하기 전<br>사용자들의 의견과 아이디어를 수용하여 적용<br>- 사용자의 피드백, 관찰, 인터뷰 등을 통해 사용성 테스트|1. 소비자 사용성 테스트 :<br>반복적인 프로토타입 과정에서 제품의 문제점을<br>개선하고 완성도를 높이는 단계<br>2. GUITAR :<br>이미지 기반의 웹 테스트 자동화 프레임워크|
 
-[2주차 Reflection] SSAFY Start Camp 챗봇 퀘스트
+<br>[2주차 Reflection] SSAFY Start Camp 챗봇 퀘스트
 
 ## I. 스펙(Specification)
 <hr>
