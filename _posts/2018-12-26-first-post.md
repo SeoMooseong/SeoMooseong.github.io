@@ -8,5 +8,5 @@ categories: Namba1 namba1 팀 프레젠테이션
 팀 프레젠테이션 링크는 [Namba1's presentation] 입니다.
 
 
-[Namba1's presentation]: https://talk.jekyllrb.com/
+[Namba1's presentation]: https://gitpitch.com/phs4530/namba1
 
